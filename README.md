@@ -1,1 +1,0 @@
-# user_activity_log_assignment
